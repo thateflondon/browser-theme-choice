@@ -39,3 +39,5 @@ function modeSombre() {
     //     localStorage.setItem('theme') == 'clair';
     // }
 }
+
+//Suggestions d'améliorations
