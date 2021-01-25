@@ -41,3 +41,5 @@ function modeSombre() {
 }
 
 //Suggestions d'améliorations
+// Géolocalisation automatique de l'utilisateur
+
