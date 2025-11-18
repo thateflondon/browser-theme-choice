@@ -10,16 +10,25 @@ button {
     cursor: pointer;
 }
 
+button:focus{
+    outline: none;
+}
+
 * {
     outline: 0;
 }
 
 .dark {
-    background-color: #112F41;
+    background-color: black;
     color: #ffffff;
 }
 
 .dark button {
-    background: #144098;
+    background: black;
     color: #fff;
+    border: 0.5px solid #ffffff;
+}
+
+#mode {
+    width: 161px;
 }
